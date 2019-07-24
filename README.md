@@ -20,3 +20,18 @@ The universe of the Game of Life is an infinite, two-dimensional orthogonal grid
 <img src="assets/example1.png" width="400">
 <img src="assets/example2.png" width="400">
 <img src="assets/example3.png" width="400">
+
+## Author
+
+**Greg (Grzegorz) Surma**
+
+[**PORTFOLIO**](https://gsurma.github.io)
+
+[**GITHUB**](https://github.com/gsurma)
+
+[**BLOG**](https://medium.com/@gsurma)
+
+<a href="https://www.paypal.com/paypalme2/grzegorzsurma115">
+  <img alt="Support via PayPal" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"/>
+</a>
+
